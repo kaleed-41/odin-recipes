@@ -1,0 +1,56 @@
+/* Universal */
+/* .description h2{
+    text-align: center;
+} */
+
+/* index.html */
+body h1, body p{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(143, 188, 165);
+}
+
+img{
+    display: block;
+}
+
+.odin{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+/* APPLE_PIE.HTML */
+.apple_pie_img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+.apple_pie p, .apple_pie h1{
+    text-align: center;
+}
+
+.apple_pie ul, .apple_pie ol{
+    text-align:justify;
+}
+
+/* LASAGNA */
+.lasagna_img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+/* BLUEBERRY PANCAKES */
+.blueberry_pancakes{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
